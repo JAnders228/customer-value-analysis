@@ -25,10 +25,10 @@ Heterogeneity findings show multiple “pathways to value” (e.g., frequent sma
 
 ```markdown
 ├── .gitignore
-├── customer_value_exploration   # Jupyter notebook with step-by-step analysis
 ├── LICENSE
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project overview
+├── README.md                    # Project overview
+├── customer_value_exploration   # Jupyter notebook with step-by-step analysis
+└── requirements.txt             # Python dependencies
 ```
 
 ## Limitations & Future Work
