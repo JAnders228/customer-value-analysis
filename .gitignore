@@ -1,0 +1,17 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directory
+instacart-venv/
+
+# Large data files and database files
+data/
+instacart.db
+instacart.duckdb
+instacart.duckdb.wal
